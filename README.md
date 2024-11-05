@@ -34,7 +34,7 @@ The steps followed in the project are:
 
 ## Getting Started
 
-To get started with PCause, follow these steps:
+To get started with Emotion Detection, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/Charu-2718/MoodMapper.git`
 2. Explore the provided notebooks for data augmentation, feature extraction, model training, and comparative analysis.
